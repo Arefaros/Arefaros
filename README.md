@@ -54,9 +54,9 @@
 
 <div align="center">
 
-![Arefaros's GitHub stats](https://github-readme-stats-kohl.vercel.app/api?username=Arefaros&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats-kohl.vercel.app/api/top-langs/?username=Arefaros&layout=compact&theme=radical&hide_border=true)
+![GitHub Stars](https://img.shields.io/github/stars/Arefaros/Arefaros?style=for-the-badge&logo=github&label=Stars)
+![GitHub Followers](https://img.shields.io/github/followers/Arefaros?style=for-the-badge&logo=github&label=Followers)
+![GitHub Repos](https://img.shields.io/github/repos/Arefaros/Arefaros?style=for-the-badge&logo=github&label=Repos)
 
 </div>
 
@@ -117,4 +117,3 @@
 **Thanks for visiting! Have a great day~** ٩(^‿^)۶
 
 </div>
-
