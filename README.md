@@ -54,9 +54,9 @@
 
 <div align="center">
 
-![Arefaros's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arefaros&show_icons=true&theme=radical&hide_border=true)
+![Arefaros's GitHub stats](https://github-readme-stats-kohl.vercel.app/api?username=Arefaros&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arefaros&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats-kohl.vercel.app/api/top-langs/?username=Arefaros&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -117,3 +117,4 @@
 **Thanks for visiting! Have a great day~** ٩(^‿^)۶
 
 </div>
+
