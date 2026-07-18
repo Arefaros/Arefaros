@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey there, I'm Arefa 👋
+# Hey there, I'm Aliff 👋
 
-### *The Intellectually Savage Bestie Who Codes* ✨
+### *The AI Enthusiast & Creative Writer* ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Creative+Writer;Tech+Educator;Forever+Student;Malaysian+Made" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Creative+Writer;Tech+Educator;Malaysian+Made" alt="Typing SVG" />
 
 </div>
 
@@ -17,8 +17,7 @@
 | 🎓 **Student** | Final semester B.Ed TESL @ UNITAR International University |
 | 🤖 **Creator** | Arefa AI — Educational TikTok on AI prompting & ed-tech |
 | ✍️ **Writer** | Author of *"Kuasa Ketiga"* — political intrigue novel |
-| 📊 **Trader** | Forex (XAUUSD & GBPJPY) — Support & Resistance strategies |
-| 🎮 **Gamer** | Minecraft server admin (Petro's SMP) & Valorant enjoyer |
+| 🎮 **Gamer** | Valorant enjoyer |
 | 🇵🇸 **Stance** | Stands firmly with Palestine |
 
 ---
@@ -29,8 +28,7 @@
 🎓 Education    → Building AI-powered learning tools & modules
 📝 Writing      → Crafting stories that challenge power structures  
 🤖 AI          → Prompting, automating, and making AI accessible
-📊 Trading     → Technical analysis & EA coding
-🎮 Community   → Managing servers & connecting with gamers
+🎮 Community   → Connecting with gamers & building communities
 ```
 
 ---
