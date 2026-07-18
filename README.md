@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there, I'm Aliff 👋
+# Hey there, I'm Arefa 👋
 
-### *The AI Enthusiast & Creative Writer* ✨
+### *The Intellectually Savage Bestie Who Codes* ✨
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Creative+Writer;Tech+Educator;Malaysian+Made" alt="Typing SVG" />
 
@@ -16,7 +16,7 @@
 |---|---|
 | 🎓 **Student** | Final semester B.Ed TESL @ UNITAR International University |
 | 🤖 **Creator** | Arefa AI — Educational TikTok on AI prompting & ed-tech |
-| ✍️ **Writer** | Author of *"Kuasa Ketiga"* — political intrigue novel |
+| ✍️ **Writer** | Academic writing specialist |
 | 🎮 **Gamer** | Valorant enjoyer |
 | 🇵🇸 **Stance** | Stands firmly with Palestine |
 
@@ -26,7 +26,7 @@
 
 ```
 🎓 Education    → Building AI-powered learning tools & modules
-📝 Writing      → Crafting stories that challenge power structures  
+📝 Writing      → Academic writing & AI humanization services
 🤖 AI          → Prompting, automating, and making AI accessible
 🎮 Community   → Connecting with gamers & building communities
 ```
@@ -64,10 +64,27 @@
 
 ## 🌟 Featured Project
 
-### 📖 Kuasa Ketiga
-> *A novel exploring political intrigue and global power structures.*
-> 
-> Main character: **Aliff bin Zakaria** — navigating a world where nothing is as it seems.
+### ✍️ Write Genius
+> *Affordable academic writing service for Malaysian students*
+
+**Write Genius** is a professional assignment assistance platform helping university and college students across Malaysia. We provide high-quality, human-written academic content with 100% AI-free guarantee.
+
+| Service | Price |
+|---------|-------|
+| Essay & Articles | RM5 / 100 words |
+| Thesis (Ch. 1, 2, 5) | RM7 / 100 words |
+| Presentation Slides | RM2 / slide |
+| Proofreading | RM2 / 100 words |
+| AI Humanizer | RM3 / 100 words |
+
+**Key Features:**
+- 🔒 100% Confidential — Student identity fully protected
+- ⏰ Flexible deadlines — Negotiate until it fits your schedule
+- 📚 APA 7th Edition references included FREE
+- ✅ 99.4% student satisfaction rate
+- 🤖 Passes GPTZero & AI detection tools
+
+🔗 **[Visit Write Genius](https://writegenius.site.je)**
 
 ---
 
