@@ -103,7 +103,7 @@
 <div align="center">
 
 [![TikTok](https://img.shields.io/badge/TikTok-Arefa%20AI-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@arefaai)
-[![Email](https://img.shields.io/badge/Email-arefaaros3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arefaaros3@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arefaros3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arefaros3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Arefaros-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arefaros)
 
 </div>
