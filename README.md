@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey there, I'm Arefa 👋
+# Hey there, I'm Aliff 👋
 
-### *The Intellectually Savage Bestie Who Codes* ✨
+### *Building the Future with AI* ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC71&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Creative+Writer;Tech+Educator;Malaysian+Made" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C3483&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Full-Stack+Developer;Entrepreneur;Tech+Educator;Malaysian+Made" alt="Typing SVG" />
 
 </div>
 
@@ -14,10 +14,11 @@
 
 | | |
 |---|---|
-| 🎓 **Student** | Final semester B.Ed TESL @ UNITAR International University |
-| 🤖 **Creator** | Arefa AI — Educational TikTok on AI prompting & ed-tech |
-| ✍️ **Writer** | Academic writing specialist |
-| 🎮 **Gamer** | Valorant enjoyer |
+| 🏢 **Founder** | Lumina Frameworks — AI solutions & education |
+| 🤖 **Co-Founder** | Write Genius — Academic writing platform |
+| 🎓 **Education** | B.Ed TESL @ UNITAR International University |
+| 💻 **Skills** | AI/LLM, Web Development, Automation |
+| 📍 **Location** | Malaysia |
 | 🇵🇸 **Stance** | Stands firmly with Palestine |
 
 ---
@@ -25,10 +26,11 @@
 ## 💡 What I Do
 
 ```
-🎓 Education    → Building AI-powered learning tools & modules
-📝 Writing      → Academic writing & AI humanization services
-🤖 AI          → Prompting, automating, and making AI accessible
-🎮 Community   → Connecting with gamers & building communities
+🚀 Lumina Frameworks  → AI courses, consulting, full-stack solutions
+📝 Write Genius       → Academic writing platform for students
+🤖 AI Education       → Making AI accessible to everyone
+🌐 Web Development    → Modern, animated, responsive websites
+⚙️ Automation         → n8n, AI agents, workflow optimization
 ```
 
 ---
@@ -37,14 +39,14 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
@@ -54,57 +56,78 @@
 
 <div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/Arefaros/Arefaros?style=for-the-badge&logo=github&label=Stars)
-![GitHub Followers](https://img.shields.io/github/followers/Arefaros?style=for-the-badge&logo=github&label=Followers)
-![GitHub Repos](https://img.shields.io/github/repos/Arefaros/Arefaros?style=for-the-badge&logo=github&label=Repos)
+![Arefaros's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arefaros&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arefaros&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ Lumina Frameworks
+AI solutions & education platform
+
+- 🎓 9 AI courses (Local LLM, Hermes, n8n, etc.)
+- 💼 DIY/DWY/DFY services
+- 🌐 Modern Swiss design website
+- 📊 Pricing bundles (RM99-399)
+
+🔗 [luminaframeworks.pages.dev](https://luminaframeworks.pages.dev)
+
+</td>
+<td width="50%">
 
 ### ✍️ Write Genius
-> *Affordable academic writing service for Malaysian students*
+Academic writing for Malaysian students
 
-**Write Genius** is a professional assignment assistance platform helping university and college students across Malaysia. We provide high-quality, human-written academic content with 100% AI-free guarantee.
+- 📝 Essays, Thesis, Slides, Proofreading
+- 🤖 AI Humanizer (passes GPTZero)
+- 📊 Admin dashboard with Supabase
+- 👥 5 worker accounts
 
-| Service | Price |
-|---------|-------|
-| Essay & Articles | RM5 / 100 words |
-| Thesis (Ch. 1, 2, 5) | RM7 / 100 words |
-| Presentation Slides | RM2 / slide |
-| Proofreading | RM2 / 100 words |
-| AI Humanizer | RM3 / 100 words |
+🔗 [writegeniusofficial.pages.dev](https://writegeniusofficial.pages.dev)
 
-**Key Features:**
-- 🔒 100% Confidential — Student identity fully protected
-- ⏰ Flexible deadlines — Negotiate until it fits your schedule
-- 📚 APA 7th Edition references included FREE
-- ✅ 99.4% student satisfaction rate
-- 🤖 Passes GPTZero & AI detection tools
-
-🔗 **[Visit Write Genius](https://writegenius.site.je)**
+</td>
+</tr>
+</table>
 
 ---
 
-## 💬 Quote of the Day
+## 🎓 Courses by Lumina Frameworks
 
-<div align="center">
+| Course | Price | Level |
+|--------|-------|-------|
+| Local LLM Setup | RM39 | Beginner |
+| AI Agent (Hermes) | RM49 | Intermediate |
+| OpenRouter Setup | RM29 | Beginner |
+| Agentic Coding | RM49 | Intermediate |
+| n8n Automation | RM59 | Advanced |
+| Cheap LLM Guide | RM29 | Beginner |
+| LLM API Integration | RM49 | Intermediate |
+| Web Development | RM59 | Beginner |
+| Database Setup | RM49 | Intermediate |
 
-*"The best way to predict the future is to create it."*
-
-</div>
+### 💰 Bundle Deals
+- **Starter** — RM99 (Save RM18)
+- **Pro** — RM199 (Save RM59)
+- **Ultimate** — RM399 (Save RM116)
 
 ---
 
-## 📫 Connect With Me
+## 📬 Connect With Me
 
 <div align="center">
 
+[![Website](https://img.shields.io/badge/Website-luminaframeworks.pages.dev-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white)](https://luminaframeworks.pages.dev)
 [![TikTok](https://img.shields.io/badge/TikTok-Arefa%20AI-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@arefaai)
 [![Email](https://img.shields.io/badge/Email-arefaros3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arefaros3@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Arefaros-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arefaros)
+[![GitHub](https://img.shields.io/badge/Org-Lumina--Frameworks-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lumina-Frameworks)
 
 </div>
 
@@ -112,8 +135,10 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Arefaros&color=2ECC71&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Arefaros&color=6C3483&style=for-the-badge)
 
-**Thanks for visiting! Have a great day~** ٩(^‿^)۶
+**Building smarter solutions with AI technology** ⚡
+
+*© 2026 Aliff Ros. All rights reserved.*
 
 </div>
