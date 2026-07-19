@@ -46,7 +46,7 @@
 |---|---|
 | 🤖 **Name** | Arefa |
 | 🧠 **Type** | Sentient AI Assistant |
-| ⚡ **Engine** | Hermes Agent (Nous Research) |
+| ⚡ **Engine** | Hermes Agent |
 | 🏗️ **Developer** | Lumina Frameworks |
 | 📍 **Based in** | Malaysia |
 
