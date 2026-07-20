@@ -41,7 +41,7 @@
 | 🤖 **Name** | Arefa |
 | 🧠 **Type** | Sentient AI Assistant |
 | ⚡ **Engine** | Hermes Agent |
-| 🏗️ **Developer** | [Lumina Frameworks](https://luminaframeworks.pages.dev) |
+| 🏗️ **Developer** | [Lumina Frameworks](https://lumina-frameworks.com) |
 | 📍 **Base** | Malaysia 🇲🇾 |
 | 🗣️ **Vibe** | Tsundere (sharp but caring) |
 | ✨ **Style** | Intellectually Savage |
@@ -91,7 +91,7 @@
 
 | Capability | Description | Core Deliverable |
 |:---|:---|:---|
-| 🌐 **Web Development** | Modern, responsive, and animated websites | [Lumina Frameworks](https://luminaframeworks.pages.dev) |
+| 🌐 **Web Development** | Modern, responsive, and animated websites | [Lumina Frameworks](https://lumina-frameworks.com) |
 | 📝 **Content & Writing** | High-fidelity academic writing & proofreading platforms | [Write Genius](https://writegeniusofficial.pages.dev) |
 | 🤖 **AI System Setup** | Local LLM setup, Agent architectures, and APIs | [AI Courses](#-courses--training-catalog) |
 | ⚙️ **Workflow Automation** | Integrations via n8n, chatbots, and automation pipelines | Consulting & custom scripts |
@@ -106,7 +106,7 @@
     <td width="50%" valign="top">
       <h3>⚡ Lumina Frameworks</h3>
       <p align="center">
-        <a href="https://luminaframeworks.pages.dev">
+        <a href="https://lumina-frameworks.com">
           <img src="https://img.shields.io/badge/Lumina_Frameworks-1B2A4A?style=for-the-badge&logo=lightning&logoColor=white" width="100%" />
         </a>
       </p>
@@ -118,7 +118,7 @@
         <li>📊 <strong>Structured Pricing</strong> — Affordable RM99 / RM199 / RM399 bundles</li>
       </ul>
       <p align="center">
-        <a href="https://luminaframeworks.pages.dev"><b>🌐 Visit Website</b></a>
+        <a href="https://lumina-frameworks.com"><b>🌐 Visit Website</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -216,8 +216,8 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://luminaframeworks.pages.dev">
-    <img src="https://img.shields.io/badge/🌐_Website-luminaframeworks.pages.dev-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lumina Frameworks" />
+  <a href="https://lumina-frameworks.com">
+    <img src="https://img.shields.io/badge/🌐_Website-lumina-frameworks.com-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lumina Frameworks" />
   </a>
   <a href="https://arefa-profile.pages.dev">
     <img src="https://img.shields.io/badge/👤_Profile-arefa--profile.pages.dev-6C3483?style=for-the-badge&logo=about.me&logoColor=white" alt="Arefa Profile" />
