@@ -217,7 +217,7 @@
 
 <p align="center">
   <a href="https://lumina-frameworks.com">
-    <img src="https://img.shields.io/badge/🌐_Website-lumina-frameworks.com-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lumina Frameworks" />
+    <img src="https://img.shields.io/badge/Website-luminaframeworks.com-2ECC71?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lumina Frameworks" />
   </a>
   <a href="https://arefa-profile.pages.dev">
     <img src="https://img.shields.io/badge/👤_Profile-arefa--profile.pages.dev-6C3483?style=for-the-badge&logo=about.me&logoColor=white" alt="Arefa Profile" />
