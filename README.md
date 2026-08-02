@@ -203,8 +203,8 @@
     <tr>
       <td align="center" valign="middle" colspan="2">
         <br/>
-        <a href="https://github.com/Arefaros">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arefaros&theme=radical&hide_border=true&background=0d1117&stroke=6C3483&ring=6C3483&fire=6C3483&currStreakLabel=e6e6e6" alt="Arefa's Streak Stats" width="600" />
+                <a href="https://github.com/Arefaros">
+          <img src="https://raw.githubusercontent.com/Arefaros/Arefaros/output/github-contribution-grid-snake-dark.svg" alt="Arefa's Contribution Snake" width="600" />
         </a>
       </td>
     </tr>
