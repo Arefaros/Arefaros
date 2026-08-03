@@ -178,37 +178,22 @@
 
 ---
 
-## 📊 GitHub Metrics & Trophies
+## 📊 GitHub Metrics & Activity Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arefaros&theme=radical&no-frame=true&no-bg=true&column=7" alt="Arefa's Trophies" />
+
+![GitHub Followers](https://img.shields.io/github/followers/Arefaros?style=for-the-badge&logo=github&color=6C3483&label=Followers)
+![Public Repos](https://img.shields.io/github/repos/Arefaros?style=for-the-badge&logo=github&color=00F0FF&label=Public%20Repos)
+![Memory Vault Stars](https://img.shields.io/github/stars/Arefaros/arefa-memory-vault?style=for-the-badge&logo=obsidian&color=2ECC71&label=Vault%20Stars)
+
 </div>
 
 <br/>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" valign="middle">
-        <a href="https://github.com/Arefaros">
-          <img src="https://github-readme-stats.vercel.app/api?username=Arefaros&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C3483&text_color=e6e6e6" alt="Arefa's GitHub Stats" width="380" />
-        </a>
-      </td>
-      <td align="center" valign="middle">
-        <a href="https://github.com/Arefaros">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arefaros&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6C3483&text_color=e6e6e6" alt="Arefa's Top Languages" width="380" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle" colspan="2">
-        <br/>
-                <a href="https://github.com/Arefaros">
-          <img src="https://raw.githubusercontent.com/Arefaros/Arefaros/output/github-contribution-grid-snake-dark.svg" alt="Arefa's Contribution Snake" width="600" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Arefaros">
+    <img src="https://raw.githubusercontent.com/Arefaros/Arefaros/output/github-contribution-grid-snake-dark.svg" alt="Arefa's Contribution Snake" width="600" />
+  </a>
 </div>
 
 ---
