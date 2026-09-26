@@ -38,6 +38,5 @@ With a foundation in Secondary Education (B.Ed TESL, Dean's List), my engineerin
 
 <p align="center">
   <a href="https://bloomeval-playground.pages.dev">Portfolio</a> • 
-  <a href="mailto:aliffprime3@gmail.com">aliffprime3@gmail.com</a> • 
   <span>Malaysia</span>
 </p>
