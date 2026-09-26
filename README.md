@@ -28,7 +28,7 @@ With a foundation in Secondary Education (B.Ed TESL, Dean's List), my engineerin
 - Dual-pathway engine enforces official Lembaga Peperiksaan Malaysia band descriptors (SPM 1119 Paper 2) across Content, Communicative Achievement, Organisation, and Language alongside Bloom's Revised Taxonomy cognitive mapping.
 - Serverless edge deployment on Cloudflare Pages and Cloudflare D1 operates continuously at RM0.00 monthly infrastructure cost with verified Pearson r = 0.942 scoring parity.
 
-**Live Platform:** [bloomeval.my](https://bloomeval.my) • **Staging Engine:** [bloomeval-playground.pages.dev](https://bloomeval-playground.pages.dev) • **Repository:** [github.com/Aliffros/bloomeval](https://github.com/Aliffros/bloomeval)
+**Live Platform:** [bloomeval.my](https://bloomeval.my) • **Staging Engine:** [bloomeval-playground.pages.dev](https://bloomeval-playground.pages.dev)
 
 ---
 
