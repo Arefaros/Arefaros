@@ -37,7 +37,7 @@ With a foundation in Secondary Education (B.Ed TESL, Dean's List), my engineerin
 ## Flagship Project: BloomEval
 
 > **Live Platform:** [bloomeval-playground.pages.dev](https://bloomeval-playground.pages.dev)  
-> **Source Repository:** [github.com/Arefaros/bloomeval](https://github.com/Arefaros/bloomeval)
+> **Source Repository:** [github.com/Aliffros/bloomeval](https://github.com/Aliffros/bloomeval)
 
 BloomEval is an automated pedagogical evaluation and cognitive depth framework tailored to Malaysian secondary school ESL writing (SPM 1119 Paper 2 / CEFR format):
 
@@ -52,12 +52,12 @@ BloomEval is an automated pedagogical evaluation and cognitive depth framework t
 ## Engineering Activity and Telemetry
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Arefaros/Arefaros/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Aliffros/Aliffros/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Arefaros?style=for-the-badge&logo=github&color=07090e&label=Followers&labelColor=1e2638" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/repos/Arefaros?style=for-the-badge&logo=github&color=07090e&label=Public%20Repos&labelColor=1e2638" alt="Public Repos" />
+  <img src="https://img.shields.io/github/followers/Aliffros?style=for-the-badge&logo=github&color=07090e&label=Followers&labelColor=1e2638" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/repos/Aliffros?style=for-the-badge&logo=github&color=07090e&label=Public%20Repos&labelColor=1e2638" alt="Public Repos" />
 </p>
 
 ---
